@@ -1,24 +1,4 @@
 
-//
-// Declaration of a class that implements a skeletal version of a
-// string.  Your goal in this project is to implement this class
-// precisely according the specification given below; no more, no
-// less.  Each of the member functions is described in comments
-// within the class declaration below.  Additionally, you will find
-// unit tests in the "gtest" directory that will provide some
-// examples of how each of them should behave.
-//
-// You can feel free to add private member variables and private
-// member functions -- in fact, you'll certainly need to add
-// private members -- but *do not* modify any of the public member
-// functions and *do not* add new ones.
-//
-// Implement all of your member functions (even the simple ones
-// that you think might better be defined inline) in the source
-// file "String.cpp".
-//
-// Note that the comments below make reference to OutOfBoundsException,
-// which you'll find declared in "OutOfBoundsException.hpp".
 
 #ifndef STRING_H
 #define STRING_H
